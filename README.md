@@ -7,3 +7,4 @@
  ** DURATION ** : 4 WEEKS
  ** MENTOR ** : NEELA SANTHOSH
  ** Description ** : i have been created an E2c instances to show case the metrices an Dashboard uploaded the pictures below for the references.
+<img width="960" alt="Image" src="https://github.com/user-attachments/assets/c8e223ec-2b7d-4b83-a5e5-564e46ff5199" />
